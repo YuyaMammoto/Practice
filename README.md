@@ -13,3 +13,4 @@ Git練習用のリポジトリです。
 
 ## GitHubFlow
 GitHubeFlowの練習
+> プルリク後の編集練習
